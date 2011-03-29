@@ -1,0 +1,3 @@
+[submodule "modules/karacos-wsgi"]
+	path = modules/karacos-wsgi
+	url = http://github.com/karacos/karacos-wsgi.git
